@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/waitpid.dir/waitpid.cpp.o  -o ../waitpid 

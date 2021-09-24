@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weihui/Documents/project/learn_tcp_ip/chapter12-13/peek_recv.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+signal.h
+-
+sys/wait.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+sys/time.h
+-
+sys/select.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gethostbyaddr.dir/gethostbyaddr.cpp.o  -o ../gethostbyaddr 

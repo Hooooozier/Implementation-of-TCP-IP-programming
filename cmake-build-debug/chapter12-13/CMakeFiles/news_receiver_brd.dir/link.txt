@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/news_receiver_brd.dir/news_receiver_brd.cpp.o -o ../../build/news_receiver_brd 

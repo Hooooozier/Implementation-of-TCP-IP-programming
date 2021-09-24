@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weihui/Documents/project/learn_tcp_ip/chapter12-14/select.cpp
+stdio.h
+-
+unistd.h
+-
+sys/time.h
+-
+sys/select.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/echo_stdclnt.dir/echo_stdclnt.cpp.o -o ../../build/echo_stdclnt 

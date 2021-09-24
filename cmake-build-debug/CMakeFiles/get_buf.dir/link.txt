@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/get_buf.dir/chapter1-9/get_buf.cpp.o -o get_buf 

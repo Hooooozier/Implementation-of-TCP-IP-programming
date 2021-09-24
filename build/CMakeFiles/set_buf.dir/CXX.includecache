@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weihui/Documents/project/learn_tcp_ip/set_buf.cpp
+stdio.h
+-
+stdlib.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+unistd.h
+-
+

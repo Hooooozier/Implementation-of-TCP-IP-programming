@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/fd_seri.dir/fd_seri.cpp.o  -o fd_seri 

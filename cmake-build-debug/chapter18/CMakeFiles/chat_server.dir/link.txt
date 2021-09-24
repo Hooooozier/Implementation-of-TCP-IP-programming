@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/chat_server.dir/chat_server.cpp.o -o ../../build/chat_server  -lpthread 

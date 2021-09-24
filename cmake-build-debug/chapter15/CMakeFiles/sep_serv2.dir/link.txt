@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sep_serv2.dir/sep_serv2.cpp.o -o ../../build/sep_serv2 

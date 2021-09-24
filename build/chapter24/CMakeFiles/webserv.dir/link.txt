@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/webserv.dir/webserv.cpp.o  -o ../webserv -lpthread 

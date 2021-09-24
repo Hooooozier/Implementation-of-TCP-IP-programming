@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/zombie.dir/zombie.cpp.o -o ../../build/zombie 

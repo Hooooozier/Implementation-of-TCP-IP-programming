@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/echo_storeserv.dir/echo_storeserv.cpp.o  -o ../echo_storeserv 

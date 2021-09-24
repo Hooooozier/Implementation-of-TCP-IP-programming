@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pipe2.dir/pipe2.cpp.o  -o ../pipe2 

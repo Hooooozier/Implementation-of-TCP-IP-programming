@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/writev.dir/writev.cpp.o -o ../../build/writev 

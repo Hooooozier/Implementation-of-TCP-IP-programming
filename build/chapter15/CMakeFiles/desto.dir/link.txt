@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/desto.dir/desto.cpp.o  -o ../desto 

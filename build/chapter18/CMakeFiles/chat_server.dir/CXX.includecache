@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weihui/Documents/project/learn_tcp_ip/chapter18/chat_server.cpp
+stdio.h
+-
+pthread.h
+-
+string.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+unistd.h
+-
+

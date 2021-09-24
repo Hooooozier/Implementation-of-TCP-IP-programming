@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/remove_zombie.dir/remove_zombie.cpp.o -o ../../build/remove_zombie 

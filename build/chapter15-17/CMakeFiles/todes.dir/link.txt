@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/todes.dir/todes.cpp.o  -o ../todes 

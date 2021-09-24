@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/echo_mpclient.dir/echo_mpclient.cpp.o  -o ../echo_mpclient 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/echo_client2.dir/echo_client2.cpp.o  -o ../echo_client2 

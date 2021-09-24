@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/news_sender.dir/news_sender.cpp.o -o ../../build/news_sender 

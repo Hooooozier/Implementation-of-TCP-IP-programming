@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/echo_mpserver.dir/echo_mpserver.cpp.o  -o ../echo_mpserver 

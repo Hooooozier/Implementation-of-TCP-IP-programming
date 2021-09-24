@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/echo_epollserv.dir/echo_epollserv.cpp.o -o ../../build/echo_epollserv 

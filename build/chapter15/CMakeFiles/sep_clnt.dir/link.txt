@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sep_clnt.dir/sep_clnt.cpp.o  -o ../sep_clnt 

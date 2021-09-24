@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weihui/Documents/project/learn_tcp_ip/chapter10-11/remove_zombie.cpp
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+signal.h
+-
+sys/wait.h
+-
+

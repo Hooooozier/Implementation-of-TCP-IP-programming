@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/semaphore.dir/semaphore.cpp.o  -o ../semaphore -lpthread 
